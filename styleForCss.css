@@ -1,0 +1,18 @@
+.maviSinif{
+    color: rgb(0, 64, 255);
+    font-weight: bold;
+    font-size: 30px;
+}
+.kirmiziSinif{
+    color:  red;
+    font-size: 25px;
+    font-weight: bolder;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    
+}
+
+body{
+    background-color:bisque;
+}
